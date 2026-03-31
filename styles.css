@@ -1,20 +1,19 @@
 body {
-    background: #fe04fa;
-    color: yellow;
-    cursor: url('cat-cursor.png') 16 16, auto;
+    background: #049efe;
+    color: rgb(255, 210, 86);
 }
 
 .title {
-    font-size: 200px;
+    font-size: 100px;
     font-family: "Helvetica";
     text-align: center;
 }
 
 .poem {
-    font-size: 50px;
+    font-size:28px;
     font-family: "Helvetica";
     text-align: center;
-    line-height: 35px;
+    line-height: 20px;
     padding-bottom: 50px;
 }
 
